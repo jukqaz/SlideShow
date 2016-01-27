@@ -1,9 +1,9 @@
-package com.tisquare.slideshow;
+package com.hini.slideshow;
 
 import android.app.Application;
 import android.graphics.Bitmap;
 
-import com.tisquare.slideshow.draw.SlideShow;
+import com.hini.slideshow.draw.SlideShow;
 
 import java.util.ArrayList;
 

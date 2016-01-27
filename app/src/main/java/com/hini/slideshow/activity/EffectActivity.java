@@ -1,4 +1,4 @@
-package com.tisquare.slideshow.activity;
+package com.hini.slideshow.activity;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -20,10 +20,10 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.target.Target;
-import com.tisquare.slideshow.R;
-import com.tisquare.slideshow.SlideApplication;
-import com.tisquare.slideshow.draw.SlideShow;
-import com.tisquare.slideshow.encoding.SlideEncoder;
+import com.hini.slideshow.R;
+import com.hini.slideshow.SlideApplication;
+import com.hini.slideshow.draw.SlideShow;
+import com.hini.slideshow.encoding.SlideEncoder;
 
 import java.util.concurrent.ExecutionException;
 

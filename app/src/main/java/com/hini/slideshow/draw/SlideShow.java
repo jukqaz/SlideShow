@@ -1,4 +1,4 @@
-package com.tisquare.slideshow.draw;
+package com.hini.slideshow.draw;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -6,8 +6,8 @@ import android.graphics.Color;
 import android.graphics.Matrix;
 import android.graphics.Paint;
 
-import com.tisquare.slideshow.SlideApplication;
-import com.tisquare.slideshow.encoding.SlideEncoder;
+import com.hini.slideshow.SlideApplication;
+import com.hini.slideshow.encoding.SlideEncoder;
 
 /**
  * Created by Myeongho on 2015-08-02.

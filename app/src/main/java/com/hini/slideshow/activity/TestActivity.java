@@ -1,4 +1,4 @@
-package com.tisquare.slideshow.activity;
+package com.hini.slideshow.activity;
 
 import android.app.Activity;
 import android.graphics.Canvas;

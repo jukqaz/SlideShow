@@ -1,4 +1,4 @@
-package com.tisquare.slideshow.activity;
+package com.hini.slideshow.activity;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -9,9 +9,9 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.util.Log;
 
-import com.tisquare.slideshow.SlideApplication;
-import com.tisquare.slideshow.draw.SlideShow;
-import com.tisquare.slideshow.encoding.SlideEncoder;
+import com.hini.slideshow.SlideApplication;
+import com.hini.slideshow.draw.SlideShow;
+import com.hini.slideshow.encoding.SlideEncoder;
 
 import java.io.File;
 import java.io.IOException;

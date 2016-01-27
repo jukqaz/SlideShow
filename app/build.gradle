@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.tisquare.slideshow"
+        applicationId "com.hini.slideshow"
         minSdkVersion 18
         targetSdkVersion 22
         versionCode 1

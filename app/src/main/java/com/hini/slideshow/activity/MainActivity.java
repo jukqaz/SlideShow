@@ -1,16 +1,14 @@
-package com.tisquare.slideshow.activity;
+package com.hini.slideshow.activity;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
-import android.os.Environment;
 import android.os.Parcelable;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.tisquare.slideshow.R;
+import com.hini.slideshow.R;
 
 import nl.changer.polypicker.Config;
 import nl.changer.polypicker.ImagePickerActivity;

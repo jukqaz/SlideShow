@@ -1,4 +1,4 @@
-package com.tisquare.slideshow.encoding;
+package com.hini.slideshow.encoding;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -8,8 +8,8 @@ import android.media.MediaFormat;
 import android.media.MediaMuxer;
 import android.view.Surface;
 
-import com.tisquare.slideshow.SlideApplication;
-import com.tisquare.slideshow.draw.SlideShow;
+import com.hini.slideshow.SlideApplication;
+import com.hini.slideshow.draw.SlideShow;
 
 import java.io.File;
 import java.io.IOException;
